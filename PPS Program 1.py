@@ -17,3 +17,4 @@ base = float(input("Enter the base of the triangle: ")) # Ask user for base
 height = float(input("Enter the height of the triangle: ")) # Ask user for height
 area4 = 0.5 * base * height # Calculate area
 print("The area of the triangle is:", area4)
+print(pi)
